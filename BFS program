@@ -54,5 +54,4 @@ class Graph {
             + "(starting from vertex 2)");
 
         g.BFS(2);
-    } 
     }
